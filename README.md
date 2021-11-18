@@ -8,11 +8,11 @@ The Docker compose will create the following containers:
 ![img.png](images/img.png)
 
 
-#Installation
+# Installation
 
 The following steps will make you run your spark cluster's containers.
 
-##Pre requisites
+## Pre requisites
 1.Docker installed
 
 2.Docker compose installed
